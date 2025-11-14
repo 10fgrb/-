@@ -1,0 +1,59 @@
+{
+  "enterprises": {
+    "canmeng1": {
+      "name": "canmeng1",
+      "organizations": [
+        {
+          "id": "11h8y9y",
+          "name": "11h8y9y",
+          "created": "2025-11-14T07:41:58.158Z"
+        },
+        {
+          "id": "22awwcx",
+          "name": "22awwcx",
+          "created": "2025-11-14T07:41:58.158Z"
+        },
+        {
+          "id": "33ookoi",
+          "name": "33ookoi",
+          "created": "2025-11-14T07:41:58.158Z"
+        },
+        {
+          "id": "44knjtj",
+          "name": "44knjtj",
+          "created": "2025-11-14T07:41:58.158Z"
+        },
+        {
+          "id": "55lwx86",
+          "name": "55lwx86",
+          "created": "2025-11-14T07:41:58.158Z"
+        },
+        {
+          "id": "66yoyv7",
+          "name": "66yoyv7",
+          "created": "2025-11-14T07:41:58.158Z"
+        },
+        {
+          "id": "77i5uta",
+          "name": "77i5uta",
+          "created": "2025-11-14T07:41:58.158Z"
+        },
+        {
+          "id": "8080rsgx",
+          "name": "8080rsgx",
+          "created": "2025-11-14T07:41:58.158Z"
+        },
+        {
+          "id": "9191k82r",
+          "name": "9191k82r",
+          "created": "2025-11-14T07:41:58.158Z"
+        },
+        {
+          "id": "00b9n4t",
+          "name": "00b9n4t",
+          "created": "2025-11-14T07:41:58.158Z"
+        }
+      ]
+    }
+  }
+}
